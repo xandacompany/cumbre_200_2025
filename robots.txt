@@ -1,0 +1,5 @@
+User-agent: *
+Disallow: /config/
+Disallow: /docs/
+Allow: /pages/
+Sitemap: https://mundoejecutivo.com.mx/sitemap.xml

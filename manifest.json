@@ -1,0 +1,9 @@
+{
+  "name": "CUMBRE 200",
+  "short_name": "CUMBRE 200",
+  "description": "Reconoce a las empresarias más influyentes de México en la CUMBRE 200, un evento de premiación único en el mundo.",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000"
+}
