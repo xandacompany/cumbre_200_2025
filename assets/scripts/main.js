@@ -152,6 +152,7 @@ function mostrarVideo(video, contenedor) {
     iframe.frameborder = '0';
     iframe.allow = 'accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture';
     iframe.allowfullscreen = true;
+    iframe.title = video.snippet.title || 'CUMBRE 200';
 
     // Limpiar el contenedor y agregar el nuevo iframe
     contenedor.innerHTML = '';  // Limpia el contenedor antes de agregar el nuevo iframe
