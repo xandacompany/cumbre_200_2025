@@ -1,0 +1,212 @@
+{
+  "tarjetas": [
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "REGISTRO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "No encuentro el formulario de registro"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "EVENTO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "No encuentro la ubicación"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "ERROR"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "Me aparece el error 100"
+      },
+      "Enlace": {
+        "href": "../../pages/errores.html#error_100"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "GENERALES"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Qué es CUMBRE 200?"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "REGISTRO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "El formulario ha cambiado"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "EVENTO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "No me aparece el horario"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "ERROR"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "Me aparece el error 200"
+      },
+      "Enlace": {
+        "href": "../../pages/errores.html#error_200"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "GENERALES"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Qué es Mundo Ejecutivo?"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "REGISTRO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿A qué correo puedo comunicarme?"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "EVENTO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Cómo puedo agendar un recordatorio?"
+      },
+      "Enlace": {
+        "href": "https://calendar.google.com/calendar/render?action=TEMPLATE&text=CUMBRE+200&details=Recordatorio+para+agendar&dates=20250201T130000Z/20250201T150000Z"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "ERROR"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "Me aparece el error 300"
+      },
+      "Enlace": {
+        "href": "../../pages/errores.html#error_300"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "GENERALES"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Dónde está ubicado Mundo Ejecutivo?"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "REGISTRO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Cuáles son los horarios de atención?"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "EVENTO"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Cómo puedo agendar el evento en mi calendario?"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "ERROR"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "Me aparece el error 400"
+      },
+      "Enlace": {
+        "href": "../../pages/errores.html#error_400"
+      }
+    },
+    {
+      "Titulo": {
+        "clase": "parrafo-10",
+        "texto": "GENERALES"
+      },
+      "Descripcion": {
+        "clase": "parrafo-11",
+        "texto": "¿Cómo comparto la información del evento?"
+      },
+      "Enlace": {
+        "href": "index.html"
+      }
+    }
+  ]
+}
